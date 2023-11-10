@@ -8,7 +8,7 @@ export const Footer = () => {
           rel="noreferrer"
           className="hover:text-blue-400 underline text-2xl"
         >
-          Github ...
+          Github
         </a>
       </div>
     </footer>
